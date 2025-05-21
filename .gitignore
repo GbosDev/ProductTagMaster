@@ -1,0 +1,31 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
